@@ -1,0 +1,331 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "methods": "Fraud Methods",
+    "protect": "How to Protect Yourself",
+    "cases": "Real Cases",
+    "codes": "Codes",
+    "project": "About the Project",
+    "me": "About Me"
+  },
+  "HomePage": {
+    "title": "Financial security - is in your hands",
+    "desc": "We explain the most common types of banking fraud and how to protect yourself from them. Knowledge is the best protection.",
+    "methods": "View methods",
+    "title2": "What you will find on the website",
+    "10methods": "10 fraud methods",
+    "descMethod": "Detailed explanations of each method with examples",
+    "protect": "How to protect yourself",
+    "descProtect": "Practical tips and recommendations",
+    "cases": "Real cases",
+    "descCases": "Stories of victims and conclusions",
+    "codes": "Codes",
+    "descCodes": "Punishment for financial fraud",
+    "about": "About the project",
+    "descAbout": "Our mission and goals",
+    "myself": "About me",
+    "descMyself": "Information about the author",
+    "title3": "Stay alert. Fraudsters never sleep."
+  },
+  "Methods": {
+    "methods": "10 ways of banking fraud and their prevention (in detail)",
+    "phishing": "Phishing",
+    "descPhishing": "Fraudsters pretend to be a bank or trusted organization.",
+    "sms": "SMS phishing",
+    "descSms": "Fraud carried out through SMS messages.",
+    "phone": "Phone fraud",
+    "descPhone": "Calls from scammers pretending to be bank employees.",
+    "malware": "Malware",
+    "descMalware": "Programs that steal your data or money.",
+    "skimming": "Skimming",
+    "descSkimming": "Stealing card data using devices on ATMs.",
+    "password": "Password hacking",
+    "descPassword": "Gaining access to accounts using weak or stolen passwords.",
+    "fake": "Fake Wi-Fi",
+    "descFake": "Fake Wi-Fi networks used to steal user data.",
+    "social": "Social media scams",
+    "descSocial": "Fake accounts that trick users into sending money or information.",
+    "sim": "SIM swapping",
+    "descSim": "Taking over a phone number to access bank accounts.",
+    "invest": "Investment fraud",
+    "descInvest": "Promises of quick profit, but actually stealing money.",
+    "details": "In details"
+  },
+  "Phishing": {
+    "title": "Phishing",
+    "desc": "Phishing is a method where fraudsters pretend to be a bank or a trusted organization to steal your data.",
+    "example": "Example",
+    "example1": "You receive an email: “Your account will be blocked, log in urgently”.",
+    "example2": "You click the link and enter your login and password.",
+    "defence": "How to protect yourself",
+    "protect": [
+      "Do not click suspicious links",
+      "Check the website URL",
+      "Do not enter data on unknown websites"
+    ],
+    "remember": "Important",
+    "important": "Banks never ask for your data via email or suspicious links."
+  },
+
+  "Sms": {
+    "title": "SMS phishing",
+    "desc": "Fraud carried out through SMS messages.",
+    "example": "Example",
+    "example1": "You receive a message: “You won money, click the link”.",
+    "example2": "You click the link and enter your data.",
+    "defence": "How to protect yourself",
+    "protect": [
+      "Do not trust such messages",
+      "Do not click links",
+      "Verify information through official sources"
+    ],
+    "remember": "Important",
+    "important": "If it sounds too good, it’s usually a scam."
+  },
+
+  "Phone": {
+    "title": "Phone fraud",
+    "desc": "Scammers call and pretend to be bank employees.",
+    "example": "Example",
+    "example1": "You receive a call: “Your account is at risk”.",
+    "example2": "They ask you to provide a code from SMS.",
+    "defence": "How to protect yourself",
+    "protect": [
+      "Never share codes",
+      "Do not give personal data",
+      "Call the bank yourself"
+    ],
+    "remember": "Important",
+    "important": "Real bank employees never ask for codes."
+  },
+
+  "Malware": {
+    "title": "Malware",
+    "desc": "Programs that install on your device and steal data.",
+    "example": "Example",
+    "example1": "You download an unknown application.",
+    "example2": "It gains access to your data.",
+    "defence": "How to protect yourself",
+    "protect": [
+      "Download only from official sources",
+      "Check app permissions",
+      "Use antivirus"
+    ],
+    "remember": "Important",
+    "important": "A free app can cost you your data."
+  },
+
+  "Skimming": {
+    "title": "Card skimming",
+    "desc": "Devices on ATMs that copy your card data.",
+    "example": "Example",
+    "example1": "You use an ATM.",
+    "example2": "Later money is withdrawn from your account.",
+    "defence": "How to protect yourself",
+    "protect": [
+      "Inspect the ATM",
+      "Cover your PIN",
+      "Use trusted machines"
+    ],
+    "remember": "Important",
+    "important": "If an ATM looks suspicious, do not use it."
+  },
+
+  "Password": {
+    "title": "Password hacking",
+    "desc": "Weak passwords are easy for scammers to guess.",
+    "example": "Example",
+    "example1": "Your password is 123456.",
+    "example2": "Scammers gain access to your account.",
+    "defence": "How to protect yourself",
+    "protect": [
+      "Use strong passwords",
+      "Use different passwords",
+      "Use a password manager"
+    ],
+    "remember": "Important",
+    "important": "One password = risk for all accounts."
+  },
+
+  "Wifi": {
+    "title": "Fake Wi-Fi",
+    "desc": "Fake networks used to steal data.",
+    "example": "Example",
+    "example1": "You connect to a Free WiFi network.",
+    "example2": "Your data gets intercepted.",
+    "defence": "How to protect yourself",
+    "protect": [
+      "Do not access banking on public Wi-Fi",
+      "Use VPN",
+      "Verify networks"
+    ],
+    "remember": "Important",
+    "important": "Free Wi-Fi can cost you money."
+  },
+
+  "Social": {
+    "title": "Social media scams",
+    "desc": "Fake accounts pretending to be bank employees.",
+    "example": "Example",
+    "example1": "A “bank employee” messages you.",
+    "example2": "They ask for your personal data.",
+    "defence": "How to protect yourself",
+    "protect": [
+      "Trust only official pages",
+      "Do not share personal data",
+      "Check accounts"
+    ],
+    "remember": "Important",
+    "important": "Banks do not contact you via private messages."
+  },
+
+  "Sim": {
+    "title": "SIM swapping",
+    "desc": "Scammers gain access to your phone number.",
+    "example": "Example",
+    "example1": "Your SIM card stops working.",
+    "example2": "Money disappears from your account.",
+    "defence": "How to protect yourself",
+    "protect": [
+      "Enable protection with your operator",
+      "Use SIM PIN",
+      "Monitor notifications"
+    ],
+    "remember": "Important",
+    "important": "Loss of signal may indicate an attack."
+  },
+
+  "Invest": {
+    "title": "Investment fraud",
+    "desc": "Promises of fast and guaranteed profit.",
+    "example": "Example",
+    "example1": "“We will double your money in 3 days”.",
+    "example2": "You send money and lose it.",
+    "defence": "How to protect yourself",
+    "protect": [
+      "Do not trust unrealistic offers",
+      "Check companies",
+      "Do not invest without verification"
+    ],
+    "remember": "Important",
+    "important": "If it sounds too good, it’s a scam."
+  },
+
+  "SafetyTips": {
+    "title": "How to protect yourself",
+    "desc": "Practical tips that will help you protect yourself and your money from scammers.",
+    "data": {
+      "title": "Data and Passwords",
+      "items": [
+        "Use strong passwords (at least 12 characters).",
+        "Enable two-factor authentication.",
+        "Do not save passwords in the browser.",
+        "Never share passwords or SMS codes."
+      ]
+    },
+
+    "devices": {
+      "title": "Devices and Software",
+      "items": [
+        "Keep your operating system and apps updated.",
+        "Download apps only from official sources.",
+        "Use antivirus and regularly scan your device.",
+        "Lock your device with a PIN or fingerprint."
+      ]
+    },
+
+    "internet": {
+      "title": "Internet and Networks",
+      "items": [
+        "Check website address (must start with https://).",
+        "Do not enter data on suspicious websites.",
+        "Avoid using open Wi-Fi when possible.",
+        "Use VPN on public networks."
+      ]
+    },
+
+    "social": {
+      "title": "Social Networks",
+      "items": [
+        "Do not click suspicious links.",
+        "Do not add unknown people.",
+        "Do not share personal information publicly.",
+        "Set up profile privacy."
+      ]
+    },
+
+    "cards": {
+      "title": "Bank Cards",
+      "items": [
+        "Never share CVV or SMS codes.",
+        "Enable transaction notifications.",
+        "Set limits for transfers and purchases.",
+        "Use a separate card for online shopping."
+      ]
+    },
+
+    "important": {
+      "title": "Important!",
+      "text": "Scammers act quickly and rely on your inattention. Always verify information and avoid making decisions in a hurry."
+    }
+  },
+
+  "Cases": {
+    "title": "Real cases",
+    "desc": "Stories of people who have encountered scammers. Learn from other people’s experience so you don’t become a victim.",
+    "phishing": {
+      "title": "Account loss due to phishing",
+      "desc": "A user received an email that looked like it was from a bank asking to urgently confirm data via a link. The website was fake and scammers stole account access.",
+
+      "mistakeTitle": "Mistake",
+      "mistake": "The user did not verify the sender and entered data on a fake website.",
+
+      "avoidTitle": "How to avoid",
+      "avoid": "Always check the sender, avoid email links, and use official bank websites only."
+    },
+
+    "investment": {
+      "title": "Investment fraud",
+      "desc": "A user was offered a guaranteed profit platform. They invested money and saw fake growth, but the account was blocked when withdrawing.",
+
+      "mistakeTitle": "Mistake",
+      "mistake": "Believed guaranteed high returns.",
+
+      "avoidTitle": "How to avoid",
+      "avoid": "Check licenses, reviews, and never trust guaranteed profit."
+    },
+
+    "call": {
+      "title": "“Bank” phone call",
+      "desc": "A scammer pretended to be a bank employee and asked for an SMS code to stop a fake transaction.",
+
+      "mistakeTitle": "Mistake",
+      "mistake": "Shared an SMS code with a stranger.",
+
+      "avoidTitle": "How to avoid",
+      "avoid": "Never share codes. Call the bank using official numbers only."
+    },
+
+    "social": {
+      "title": "Social media purchase scam",
+      "desc": "A user sent money for a cheap product on social media. After payment, the seller disappeared.",
+
+      "mistakeTitle": "Mistake",
+      "mistake": "Sent money to an unknown seller without guarantees.",
+
+      "avoidTitle": "How to avoid",
+      "avoid": "Check reviews and avoid upfront payments."
+    },
+
+    "wifi": {
+      "title": "Public Wi-Fi hack",
+      "desc": "A user used public Wi-Fi and logged into banking. Data was intercepted.",
+
+      "mistakeTitle": "Mistake",
+      "mistake": "Used public Wi-Fi for banking operations.",
+
+      "avoidTitle": "How to avoid",
+      "avoid": "Do not use public Wi-Fi for sensitive actions and use VPN."
+    }
+  }
+}

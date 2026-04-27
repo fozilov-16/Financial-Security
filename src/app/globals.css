@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+body {
+    font-family: sans-serif;
+}
+
+/* Montserrat Alternates */
+@font-face {
+  font-family: 'Montserrat Alternates';
+  src: url('/fonts/MontSerrat.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.font-mont {
+  font-family: 'Montserrat Alternates', sans-serif;
+}
