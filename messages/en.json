@@ -4,9 +4,8 @@
     "methods": "Fraud Methods",
     "protect": "How to Protect Yourself",
     "cases": "Real Cases",
-    "codes": "Codes",
-    "project": "About the Project",
-    "me": "About Me"
+    "codes": "Laws",
+    "project": "About the Project"
   },
   "HomePage": {
     "title": "Financial security - is in your hands",
@@ -326,6 +325,50 @@
 
       "avoidTitle": "How to avoid",
       "avoid": "Do not use public Wi-Fi for sensitive actions and use VPN."
-    }
+    },
+    "remember": "Remember",
+    "note": "Scammers are constantly coming up with new schemes. Stay vigilant!"
+  },
+  
+  "Articles": {
+    "code": "Laws",
+    "title": "Liability for fraud under the laws of the Republic of Tajikistan",
+    "description": "Fraud is the unlawful taking of another person’s property or money through deception or abuse of trust. In the Republic of Tajikistan, criminal liability is provided for this offense. Depending on the amount of damage and the circumstances of the crime, the punishment may range from a fine to imprisonment for up to 15 years.",
+    "article": "Article",
+    "subtitle": "Description",
+    "punishment": "Punishment",
+    "title1": "Fraud",
+    "desc1": "The unlawful taking of another person’s property or money through deception, misleading information, or abuse of trust. It may involve fake documents, false identities, or digital tools such as online platforms and banking systems.",
+    "fine1": "Up to 12–15 years",
+    "fineDesc": "imprisonment with a fine.",
+    "title2": "Theft",
+    "desc2": "Secret theft of another person’s property without their knowledge and without deception. Usually committed in a hidden manner without direct contact with the victim.",
+    "fine2": "Up to 10–12 years",
+    "title3": "Money Laundering",
+    "desc3": "The concealment of the illegal origin of money or assets obtained through criminal activity by using financial transactions, transfers, or third parties.",
+    "fine3": "Up to 10–12 years",
+    "title4": "Unauthorized Access to Information",
+    "desc4": "Unauthorized access to computer systems, databases, or banking accounts with the purpose of obtaining, modifying, or destroying information.",
+    "fine4": "Up to 7–10 years",
+    "title5": "Malicious Software",
+    "desc5": "The creation, distribution, or use of malicious software intended to disrupt systems, steal data, or gain unauthorized access to financial resources.",
+    "fine5": "Up to 8–10 years",
+    "note": "The information is provided for educational purposes only. The exact legal classification of the act and the punishment are determined by the court."
+  },
+  "About": {
+    "title": "About the Project",
+    "description": "This project is an educational platform designed to raise awareness about financial fraud, cybercrime, and digital safety in the Republic of Tajikistan and globally.",
+  
+    "card1Title": "Educational Purpose",
+    "card1Desc": "The project helps users understand different types of fraud and how laws protect citizens.",
+  
+    "card2Title": "Security Awareness",
+    "card2Desc": "We explain how scammers operate and how to avoid becoming a victim.",
+  
+    "card3Title": "Global Knowledge",
+    "card3Desc": "The platform covers international and local cybercrime patterns and prevention methods.",
+  
+    "note": "Information is provided for educational purposes only. Legal qualification is determined by the court."
   }
+
 }

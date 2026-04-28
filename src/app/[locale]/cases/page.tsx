@@ -1,12 +1,13 @@
 "use client";
 
+import { Scale, TriangleAlert } from "lucide-react";
 import { useTranslations } from "next-intl";
 
 const Cases = () => {
   const t = useTranslations("Cases");
 
   const cases = [
-    { key: "phishing", icon: "/danger.png" },
+    { key: "phishing", icon: "/mail.png" },
     { key: "investment", icon: "/invest.png" },
     { key: "call", icon: "/phone.png" },
     { key: "social", icon: "/social.png" },
@@ -32,12 +33,10 @@ const Cases = () => {
             className="w-full border border-gray-200 rounded-2xl p-5 flex flex-col lg:flex-row gap-6 bg-white hover:shadow-md transition"
           >
 
-            {/* ICON */}
             <div className="w-[70px] h-[70px] flex items-center justify-center shrink-0">
               <img src={icon} alt={key} className="w-[60px] h-[60px]" />
             </div>
 
-            {/* CONTENT */}
             <div className="flex flex-col gap-4 w-full">
 
               <h2 className="text-lg font-semibold">
@@ -48,7 +47,6 @@ const Cases = () => {
                 {t(`${key}.desc`)}
               </p>
 
-              {/* MISTAKE */}
               <div>
                 <p className="text-sm font-semibold text-red-500">
                   {t(`${key}.mistakeTitle`)}
@@ -57,8 +55,7 @@ const Cases = () => {
                   {t(`${key}.mistake`)}
                 </p>
               </div>
-
-              {/* AVOID */}
+              
               <div>
                 <p className="text-sm font-semibold text-green-600">
                   {t(`${key}.avoidTitle`)}
@@ -72,6 +69,14 @@ const Cases = () => {
 
           </div>
         ))}
+      </div>
+
+      <div className="flex items-center gap-5 bg-red-50 border border-red-200 rounded-xl p-4 text-sm text-gray-800">
+        <TriangleAlert className="w-20 h-20 sm:w-6 sm:h-6 text-red-600 mt-0.5" />
+        <div className="flex flex-col">
+          <h1>{t("remember")}</h1>
+          <p>{t("note")}</p>
+        </div>
       </div>
 
     </div>

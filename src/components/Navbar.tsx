@@ -19,6 +19,7 @@ export default function Navbar() {
     { href: "/protect", label: t("protect") },
     { href: "/cases", label: t("cases") },
     { href: "/codes", label: t("codes") },
+    { href: "/aboutProject", label: t("project") },
   ];
 
   return (
